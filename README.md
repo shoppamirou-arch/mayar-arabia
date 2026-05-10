@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mayar Arabia
 
-## Getting Started
+E-commerce de perfumería árabe premium. Tienda online con recogida en Barcelona.
 
-First, run the development server:
+**Marcas:** Lattafa · Afnan · Armaf · Rasasi · Maison Alhambra
+
+## Stack
+
+- Next.js 16 (App Router) + React 19 + TypeScript
+- Tailwind CSS v4 + Framer Motion
+- Sin backend — datos estáticos en `src/lib/data.ts`
+
+## Inicio rápido
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Estructura
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+src/
+├── app/
+│   ├── page.tsx              # Home
+│   ├── tienda/               # Catálogo + página de producto
+│   ├── checkout/             # Checkout (simulado)
+│   ├── nosotros/             # Página about
+│   ├── contacto/             # Contacto
+│   ├── sitemap.ts            # SEO sitemap
+│   └── robots.ts             # SEO robots
+├── components/
+│   ├── Navbar.tsx            # Navbar fija con scroll
+│   ├── Footer.tsx
+│   ├── ProductCard.tsx       # Tarjeta de producto
+│   └── CartDrawer.tsx        # Drawer carrito lateral
+└── lib/
+    ├── data.ts               # Productos, marcas, testimonios
+    └── CartContext.tsx       # Carrito + wishlist (React Context)
+```
 
-## Learn More
+## Añadir productos
 
-To learn more about Next.js, take a look at the following resources:
+Editar el array `PRODUCTS` en `src/lib/data.ts`. Cada producto necesita `id`, `slug`, `name`, `brand`, `price`, `category`, `scent`, `ml`, `gradient`, notas olfativas, `longevity`, `sillage` y `rating`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Personalización
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Los colores y fuentes están centralizados:
 
-## Deploy on Vercel
+- **Dorado:** `#C8A96B` · **Negro:** `#0F0F0F` · **Crema:** `#FAF7F2`
+- Fuentes: Cinzel (títulos), Cormorant Garamond (cuerpo), Inter (UI)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Despliegue
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Optimizado para Vercel. Actualizar `metadataBase` en `src/app/layout.tsx` con el dominio real antes de publicar.
