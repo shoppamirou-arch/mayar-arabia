@@ -1,0 +1,416 @@
+﻿ROYAL BLEND → 33.99 € 
+Salida→ Coñac, Canela, Ciruela 
+Corazón → Iris, Mirra 
+Fondo → Vainilla, Haba tonka, Sándalo 
+COCONUT LECHE → 31.99 € 
+Salida → Coco, leche 
+Corazón → Notas dulces, Vainilla 
+Fondo → Almizcle, azucar 
+TROPICAL KISS → 31.99 € 
+Salida → Mango, Maracuyá, Naranja 
+Corazón → Coco, Flores blancas 
+Fondo → Vainilla, Almizcle, Maderas suaves 
+NÉCTAR → 29.98 € 
+Salida → Neroli, Naranja amarga, Jengibre, Bergamota, Pera Corazón → Miel, Flor de azahar, Nardos, Jazmín 
+Fondo → Vainilla, Leche de nuez, Notas amaderadas, Almizcle, Tabaco CHOCOLATE LASSI → 31.99€ 
+Salida → vainilla 
+Corazón → chocolate, yogur 
+Fondo → Ron, pachulí, haba tonka 
+NIGHT CLUB ABSOLUTO → 25.99 € 
+Salida → grosella negra, bergamota, pomelo 
+Corazón → geranio, jazmin 
+Fondo → pachulí, ámbar, almizcle 
+NIGHT CLUB SILKY → 25.99€ 
+Salida → magnolia, osmanto, azafrán 
+Corazón → nardos, pachulí, maracuyá, oud, oud 
+Fondo → almizcle, vainilla de madagascar, ambrozan, incienso, cedro, mirra GLORIOUS OUD WHITE → 34.99€ 
+Salida → grosella negra, musgo, 
+Corazón → bergamota, magnolia, mandarina 
+Fondo → sándalo blacno
+VULCAN ROSA → 31.99€ 
+Salida → grosella, zarzamora, romero, bergamota 
+Corazón → frambuesa, vodka, albahaca, lirio 
+Fondo → fresa, almizcle, durazno, pachulí, incienso, ámbar, sándalo VULCAN BLACK FRIDAY → 33.99€ 
+Salida → azafrán, manzana, canela 
+Corazón → cuero, rosa 
+Fondo → pachulí, musgo, almizcle, papiro de egipto VULCAN FEU → 31.99€ 
+Salida → mango, limón, jengibre, ruibarbo 
+Corazón → pimienta rosa, jazmín, violeta, praliné 
+Fondo → haba tonka, cedro, ámbar gris, musgo 
+GRECIA BLANCA → 33.99€ 
+Salida → leche, almizcle 
+Corazón → nardos, incienso, jazmín 
+Fondo → vainilla, almizcle, haba tonka, cacao 
+GRECIA ROSA EXTRAIT → 31.99€ 
+Salida → pomelo, champagne, pera 
+Corazón → peonía, jazmín, rosa, inciendo 
+Fondo → cedro, vetiver, oud 
+VENENO BLANCO → 37.99€ 
+Salida → neroli (flor) , leche, bergamota 
+Corazón → flores blancas, flor de tiaré, ylang ylang Fondo → coco, vainilla, ládano, madera de gaiac 
+VENENO SCARLET → 37.99€ 
+Salida → fresa, zarzamora, caramelo 
+Corazón → frambuesa, cedro, canela 
+Fondo → cuero, pachulí, abeto, caramelo, haba tonka, vainilla 
+FIRESTORM → 31.99€ 
+Salida → manzana roja, davana, cardamomo 
+Corazón → incienso, rosa 
+Fondo → mirra, vainilla, ámbar
+THUNDER → 31.99€ 
+Salida → elemí, pimienta rosa, lavanda, bergamota Corazón → iris, vainilla, geranio, leche 
+Fondo → haba tonka, cedro, vetiver 
+CHAOS EXTRAIT → 31.99€ 
+Salida → cereza, frutas rojas 
+Corazón → iris 
+Fondo → cuero, vainilla, musgo 
+CREME OF CLOUDS → 24.99€ 
+Crema batida, Azúcar Quemado, leche de coco, vainilla DIWANI CAIRO → 34.99€ 
+Salida → zarzamora, grosella negra 
+Corazón → algodón de azúcar, neroli, jazmín Fondo → vainilla, almizcle, ámbar 
+MYTHICAL GRYPHON → 33.99€ 
+Salida → Azafrán, pimienta, bergamota, cardamomo Corazón → akigalawood, rosa, corteza, cedro, canela Fondo → vetiver, ámbar, pachulí, vainilla 
+CHOCOLA ADDICT → 33.99€ 
+Salida → chocolate, naranja tangerina, ámbar Corazón → cuero, incienso 
+ECLAIR AFFAIR → 33.99€ 
+Salida → vaina de vainilla, leche de coco, jazmín Corazón → caramelo, acorde goloso, ámbar Fondo → vainilla, haba tonka, almizcle 
+PINNACE → 34€ 
+Salida → pomelo, naranja 
+Corazón → menta, grosellas negras 
+Fondo → ambroxan, almizcle 
+PINNACE NOIR → 34€ 
+Salida → manzana, azahar, bergamota, limón Corazón → canela, geranio, clavo de olor, palo de rosa Fondo → vainilla, sándalo, cedro
+CHAMPION SUGAR → 34.99€ 
+Salida → pimienta rosa, cardamomo, bergamota, manzana Corazón → azahar, rosa, menta, geranio 
+Fondo → ámbar, ámbar gris, haba tonka 
+CHAMPION MONEY → 34.99€ 
+Salida → abrótano, bergamota 
+Corazón → lavanda, benjuí 
+Fondo → vainilla, haba tonka 
+SCORPIO → 31.99€ 
+Salida → davana, pimienta rosa, neroli, limón 
+Corazón → ron, vetiver, esclarea 
+Fondo → tabaco, vainilla, sytrax 
+CAPRICOINIO → 30€ 
+Salida → incienso, humo 
+Corazón → ládano, abeto 
+Fondo → benjuí, ámbar, madera de gaiac, vainilla 
+LEO → 30€ 
+Salida → raiz de lirio, bergamota, limón, naranja 
+Corazón → vainilla, acorde goloso, cachemira 
+Fondo → 
+NUDO VERDE → 21.99€ 
+Salida → limón, mandarina 
+Corazón → notas florales 
+Fondo → notas amaderadas, vainilla, almizcle, ámbar NUDO LILA → 21.99€ 
+Salida → bergamota, naranja, mandarina, pomelo 
+Corazón → grosella, frambuesa, flor de azahar 
+Fondo →malvavisco, almizcle, natilla, almizcle 
+SPECTRE → 31.99€ 
+Salida → incienso, madera de gaiac, azafrán 
+Corazón → cuero, amberwood, violeta, caña de azúcar Fondo → humo, pachulí, notas amaderadas, sándalo, almizcle negro
+SPECTRE WRAITH → 31.99€ 
+Salida → ron, especias 
+Corazón → café, sándalo, pachulí, vetiver 
+Fondo → caña de azúcar 
+SPECTRE GHOST → 31.99€ 
+Salida → jengibre, cardamomo, bergamota Corazón → pimienta rosa, grosella negras, rosa Fondo → vainilla, cedro, pachulí 
+LIQUID BRUN → 36.99€ 
+Salida → canela, azahar, cardamomo, bergamota Corazón → vainilla bourbon, elemí 
+Fondo → praliné, ambrozan, madera de gaiac, almizcle LIQUID BRUN LIMITED EDITION → 42.00€ 
+Salida → cardamomo, lavanda, cítricos 
+Corazón → madera de gaiac, azahar, rosa 
+Fondo → vainilla, ámbar, haba tonka, musgo de roble ELYSIA → 31.99€ 
+Salida → naranja, mandarina, melocotón 
+Corazón → pera 
+Fondo → notas florales 
+FIERTE LUNA → 31.99€ 
+Salida → lavanda, bergamota, limón 
+Corazón → miel, canela, jazmín, cachemira Fondo → tabaco, vainilla, haba tonka 
+VENUS DE MILO → 31.99€ 
+Salida → caramelo, pera, naranja, néctar 
+Corazón → lirio, leche, jazmín 
+Fondo → almizcle, vainilla madagascar, benjuí, ambroxan SOLITARIO → 28.99€ 
+Salida → trébol blanco, bergamota, rosa 
+Corazón → matcha, jazmín, heliotropo 
+Fondo → almizcle, musgo, pachulí
+GELATO ROJO → 25.99€ 
+Salida → crema batida, fresa, pastelito 
+Corazón → azahar, ambroxan 
+Fondo → malvavisco, vainilla, almizcle 
+GELATO AMARILLO → 25.99€ 
+Salida → leche de coco, mango 
+Corazón → jazmín, guayaba 
+Fondo → sándalo, vainilla, almizcle 
+QAMARAIN MEN → 27.99€ 
+Salida → piña, bergamota, pomelo, lima 
+Corazón → pachulí, jazmín, cedro 
+Fondo → musgo de roble, notas amaderadas 
+QAMARAIN WOMAN → 27.99€ 
+Salida → azahar, mango, manzanilla 
+Corazón → ylang-ylang, coco, higo 
+Fondo → ámbar, sándola, vainilla, iris, benjuí 
+DANA → 24.99€ 
+Salida → grosellas, lichi, manzana, lima siciliana 
+Corazón → jazmín, violeta, rosa 
+Fondo → vainilla, ámbar, sándalo, cedro, almizcle SHAHEEN FALCONES → 24.99€ 
+Salida → pomelo, piña, bergamota, mandarina, limón, manzana Corazón → cedro, vainilla, jazmín 
+Fondo → pachulí, ámbar gris, cuero, almizcle 
+CHERRY BUZZ → 19.99€ 
+Salida → Cereza, jengibre 
+Corazón → jazmín 
+Fondo → pimienta rosa, ambrettolide, almizcle 
+JUST ASWAD → 19.99€ 
+Salida → nuez moscada, cardamomo, canela, pomelo Corazón → lavanda 
+Fondo → regaliz, sándalo, ámbar, pachulí, vetiver
+BAKARAT BLANCA → 20.99€ 
+Salida → azafrán, jazmín 
+Corazón → ámbar gris, amberwood 
+Fondo → resina de abeto, cedro 
+BAKARAT ROJA → 20.99 
+Salida → azafrán, almendra amarga 
+Corazón → jazmín egipicio, cedro 
+Fondo → ámbar gris, notas amaderadas, almizcle 
+MIRSAL ROJO → 30€ 
+Salida → grosellas negras, almendra, cereza 
+Corazón → rosa turca, jazmín, lavanda, ciruela 
+Fondo → cedro, canela, sándalo, haba tonka, vainilla, benjuí, vetiver MIRSAL BEIGE → 30€ 
+Salida → caramelo 
+Corazón → masa de galletas, miel, cumarina 
+Fondo → vainilla, almizcle blanco, coco 
+MIRSAL NEGRO → 30€ 
+Salida → limón, albahaca, menta, grosellas negras, manzana, tomillo Corazón → lavanda, romero, jazmín 
+Fondo → cedrón, almizcle 
+HAREER → 21.99€ 
+Salida → grosellas negras, bergamota, coco, almendra, manzana Corazón → azahar, jazmín 
+Fondo → haba tonka, benjuí, almizcle 
+NAGHAM → 21.99€ 
+Salida → notas aromáticas, notas especiadas 
+Corazón → rosa de bulgaria, madera blanca, cachemira Fondo → haba tonka, vainilla, almizcle 
+JUMAN EXCLUSIVE → 25.99€ 
+Salida → champagne rosa, lichi, pimienta rosa 
+Corazón → rosa, flor de melocotonero, almendra amarga Fondo → notas amaderadas, almizcle blanco
+PURE CRYSTAL → 27.99€ 
+Salida → bayas rojas, canela, naranja amarga, pomelo, bergamota Corazón → coñac, jengibre, esclarea 
+Fondo → ámbar, vetiver, sándalo, cardamomo, almizcle, pachulí, vainilla QUEEN OF ROSES → 47.99€ 
+Salida → pimienta rosa 
+Corazón → pachulí, rosa 
+Fondo → almizcle, vainilla, ámbar 
+LEEN → 37.99€ 
+Salida → jengibre, cúrcuma, bergamota, pimienta rosa Corazón → mango, jazmín, osomanto, nardos, pimienta negra Fondo → sándalo, almizcle, incienso 
+SUR MESURE NOIR → 37.99€ 
+Salida → nuez moscada, canela, pimienta de Jamaica, bergamota Corazón → elemí, lavanda, mahonial 
+Fondo → sándalo, vetiver, ámbar, pachulí, cedro 
+NEBRAS ELIXIR → 32.00€ 
+Salida → caramelo de leche, crema batida 
+Corazón → caña de azúcar, heliotropo 
+Fondo → vainilla, ambrozan, almizcle 
+ISHQ SILVER → 34.99€ 
+Salida → limón, bergamota 
+Corazón → piña, pimienta negra 
+Fondo → vainilla, amberwood, cedro, pachulí 
+ISHQ GOLD → 34.99€ 
+Salida → caramelo, azafrán 
+Corazón → gamuza, cuero, haba tonka 
+Fondo → vainilla, ámbar, almizcle 
+SHAHEEN SILVER → 34€ 
+Salida → bergamota, casis 
+Corazón → pachulí, rosa 
+Fondo → musgo de roble, almizcle, ámbar
+SHAHEEN GOLD → 34€ 
+Salida → piña, pomelo 
+Corazón → higo, lavanda 
+Fondo → vainilla, pachulí, haba tonka 
+AL AREEQ SILVER → 34€ 
+Salida → cardamomo, manzana, cardamomo Corazón → tabaco, oud, ciprés, jazmín 
+Fondo → cuero, almizcle, sándalo, vainilla AL AREEQ GOLD → 34€ 
+Salida → azafrán, té negro 
+Corazón → cuero, gamuza, incineso 
+Fondo → vainilla, amerbwood, almizcle 
+AL QIAM → 32€ 
+Salida → azafrán, frambuesa 
+Corazón → cuero, pachulí 
+Fondo → oud, benjuí, ámbar, madera de gaiac, vetiver TAUREAU DE COMBAT → 36€ 
+Salida → canela, benjuí, ámbar, cardamomo Corazón → tabaco, heliotropo, cachemira, jazmín Fondo → vainilla, haba tonka, pachulí 
+PEACE AND LOVE → 36€ 
+Salida → almendra, grosella, bergamota 
+Corazón → rosa, nardos 
+Fondo → sándalo, vainilla, heliotropo 
+AFEEF → 36€ 
+Salida → melocoton, pimienta rosa, bergamota Corazón → nardos, azahar, jazmín 
+Fondo → praliné, ámbar, sándalo, pachulí CONFIDENTIAL GOLD → 25€ 
+Salida → melocotón, maracuyá, pera, frambuesa, casis Corazón → lirio de los valles 
+Fondo →almizcle, vainilla, sándalo, pachulí, heliotropo
+ATHEERI → 29.98€ 
+Salida → flor de pasionaria, gota del rocío 
+Corazón → orquídea, jazmín 
+Fondo →vainilla, amberwood 
+KINGDOM HOMBRE → 25.99€ 
+Salida → lavanda, menta, salvia 
+Corazón → vainilla, tabaco, flor de azahar 
+Fondo → haba tonka, benjuí, ládano 
+KINGDOM MUJER → 25.99€ 
+Salida → pera, peonía, casis 
+Corazón →praliné, jazmín, haba tonka 
+Fondo → vainilla, almizcle, sándalo, ámbar 
+NASMAAT → 23.99€ 
+Salida → bergamota, pimienta rosa 
+Corazón → ciruela, jazmín, pimienta negra 
+Fondo → pachulí, ámbar, musgo, cuero 
+TERIAQ → 28.99€ 
+Salida → caramelo, almendra amarga, chabacano, pimienta rosa Corazón → miel, ruibarbo, flores blancas, rosa 
+Fondo → vainilla, cuero, almizcle, vetiver, ládano PURE MUSK → 19.99€ 
+Notas→ Almizcle 
+AJWAD → 22.99€ 
+Salida → notas afrutadas 
+Corazón → rosa, jazmín 
+Fondo → vainilla, almizcle, ámbar, cedro 
+KHAMRAH QAHWA → 30€ 
+Salida → canela, cardamomo, jengibre 
+Corazón → praliné, frutas confitadas, flores blancas Fondo → vainilla, café, haba tonka, benjuí, almizcle 
+KHAMRAH DUKHAN → 32€ 
+Salida → especias, pimienta de jamaica, mandarina Corazón → incienso, ládano, azahar, pachulí 
+Fondo → praliné, tabaco, haba tonka, benjuí
+ASAD NEGRO → 23€ 
+Salida → pimienta negra, tabaco, piña 
+Corazón → pachulí, café, iris 
+Fondo → vainilla, ámbar, madera seca, benjuí, ládano 
+ASAD ZANZIBAR → 23€ 
+Salida → lavanda, pimienta negra 
+Corazón → agua de coco, iris, sal 
+Fondo → vainilla, incienso 
+ASAD ZANZIBAR LIMITED EDITION → 25.99€ 
+Salida → notas marinas, lavanda, pimienta rosa 
+Corazón → jabón, cachemira, canela 
+Fondo → ámbar, sándalo, haba tonka, cedro 
+QIMMAH → 24.99 
+Salida → almendra, café 
+Corazón → jazmín, nardos, haba tonka 
+Fondo → vainilla, cacao, sándalo 
+QIMMAH BLACK → 24.99€ 
+Salida → madera de oud, cedro 
+Corazón → lavanda, salvia, romero 
+Fondo → pachulí, vetiver 
+KHAMRAH → 30€ 
+Salida → canela, nuez moscada, bergamota 
+Corazón → dátiles, praliné, nardos, mahonial 
+Fondo → vainilla, haba tonka, amberwood, mirra, benjuó, akigalawood YARA → 22.99€ 
+Salida → orquídea, heliotropo, naranja 
+Corazón → acorde goloso, frutas tropicales 
+Fondo → vainilla, almizcle, sándalo 
+GIVE ME GOURMAND WHIPPED → 34.99€ 
+Salida → caramelo, palomitas de maíz, caramelo, salado Corazón → leche, jazmín, 
+Fondo → haba tonka, benjuí, almizcle
+GIVE ME GOURMAND VANILLA FREAK → 34.99€ 
+Salida → pastelito 
+Corazón → azúcar glaseado, azúcar, almendra, canela Fondo → mantequilla, vainilla, almizcle 
+GIVE ME GOURMAND BERRY → 34.99€ 
+Salida → fresa, crema chantilly 
+Corazón → mermelada, de fresa, azúcar, flores blancas Fondo → vainilla, almizcle 
+GIVE ME GOURMAND COOKIE CRAVE → 34.99€ 
+Salida → mantequilla, cacao 
+Corazón → galleta, leche, azúcar 
+Fondo → vainilla, crema batida, sándalo 
+LIAM DRE SHINE → 22.99€ 
+Salida → bergamota, romero, pimienta 
+Corazón → notas marinas, violeta 
+Fondo → almizcle, ámbar, pachulí 
+HER CONFESSION → 34.99€ 
+Salida → canela, mystikal 
+Corazón → nardos, jazmín, incienso, mahonial Fondo → vainilla, almizcle, haba tonka 
+HIS CONFESSION → 34.99€ 
+Salida → lavanda, canela, mandarina 
+Corazón → iris, benjuí, ciprés, mahonial 
+Fondo → vainilla, haba tonka, ámbar, incienso, cedro, pachulí SUPREME LATTAFA → 21.99€ 
+Salida → rosa, canela, azafrán 
+Corazón → caramelo, pachulí 
+Fondo → ambrozan, vainilla, notas amaderadas, ámbar BAYAAN LATTAFA → 25.99€ 
+Salida → lichi, casis, pimienta rosa 
+Corazón → rosa, praliné, cardamomo 
+Fondo → oud, musgo, vainilla
+PETRA → 21.99€ 
+Salida → ron, ciruela 
+Corazón → nardos, coco 
+Fondo → vainilla, almizcle, praliné 
+OPULENT OUD → 21.99 
+Salida → azafrán, canela 
+Corazón → oud, rosa 
+Fondo → oud, ámbar, cedro 
+SHERIF → 29.98 
+Salida → manzana, planta grain, bergamota Corazón → cedro, cachemira, violeta 
+Fondo → musgo de roble, almizcle, ámbar MAYAR CHERRY → 24.99€ 
+Salida → fresa, bergamota 
+Corazón → mermelada de cherry, cacao 
+Fondo → vainilla, ámbar, pachulí 
+MAYAR NATURAL → 24.99€ 
+Salida → mandarina verde, higo, melón, agua de coco Corazón → flor de loto, nenúfar, jazmín 
+Fondo → almizcle, ambrozan, sándalo, vainilla MAYAR ROSA → 24.99€ 
+Salida → lichi, frambuesa, violeta 
+Corazón → rosa blanca, peonía, jazmín 
+Fondo → almizcle, vainilla 
+ATLAS → 27.99€ 
+Salida → notas marinas, sal, limón 
+Corazón → davana, iris 
+Fondo → ámbar gris, musgo de roble, sándalo QAED AL FURSAN → 20€ 
+Salida → piña, azafrán 
+Corazón → abeto balsámico, jazmín 
+Fondo → cedro, ámbar, oud
+QAED FURSAN UNLIMITED → 20€ 
+Salida → coco, piña, cítricos 
+Corazón → ylang-ylang, frangipani, jazmín 
+Fondo → vainilla, almizcle, sándalo, notas dulces QAED AL FURSAN UNTAMED → 20€ 
+Salida → canela, cardamomo, mandarina, nuez moscada Corazón → caramelo, lavanda, esclarea, geranio, ciprés Fondo → ámbar, cedro, incienso, ládano, vetiver 
+HAYATI BLACK → 20€ 
+Salida → manzana, bergamota 
+Corazón → canela, notas amaderadas 
+Fondo → almizcle, vainilla 
+HAYATI AL MALEKY → 20€ 
+Salida → pimienta rosa, bergamota, jengibre, nuez moscada Corazón → cedro, notas amaderadas, incienso, ládano Fondo → almizcle, ámbar gris, ámbar 
+ECLAIRE → 28.99 
+Salida → caramelo, leche, azúcar 
+Corazón → miel, flores blancas 
+Fondo → vainilla, praliné, almizcle 
+ECLAIRE BANNOFI → 28.99 
+Salida → platano, dulce de leche, 
+Corazón → vainilla, crema batida 
+Fondo → bizcocho, praliné, almizcle 
+ECLAIRE PISTACCIO → 28.99 
+Salida → crema de pistacho, pistacho 
+Corazón → cacao, crema batida, coco 
+Fondo → vainilla, leche, almizcle 
+ART OF NATURE I → 37€ 
+Salida → higo, ciruela, grosellas negras 
+Corazón → cuero, ruibarbo, rosa 
+Fondo → madera de oud, ámbar gris, vainilla
+ART OF NATURE II → 37€ 
+Salida → Incienso de olíbano, mandarina, bergamota, manzana Corazón → cardamomo, flor de azahar del naranjo, rosa Fondo → vainilla, almizcle, ambroxan, madera de gaiac, cedro 
+ODYSSEY MANDARIN SKY ELIXIR → 34.99€ 
+Salida → mandarina, naranja, lavanda, cardamomo, pimienta negra Corazón → caramelo, haba tonka, pachulí, incienso 
+Fondo → vainilla, vetiver 
+ODYSSEY MEGA MAN → 29.95€ 
+Salida → Naranja, bergamota, limón, jengibre, menta Corazón →piña, salvia, enebro, geranio 
+Fondo → almizcle, cedro, haba tonka, vetiver 
+ODYSSEY WHITE HOMME → 25.95€ 
+Salida → pimienta rosa, cardamomo, menta 
+Corazón → salvia, piña, notas acuáticas 
+Fondo → amberwood, vainilla, cedro 
+BON BON ARMAF→ 49.95€ 
+Salida → mandarina, bergamota, manzana granny smith, papaya Corazón → peonía, azucena, flor de té verde, notas marinas, chabacano Fondo → almizcle, ácorde goloso, sándalo 
+ART OF ARABIA III →40€ 
+Salida → incienso de olíbano, davana, bergamota 
+Corazón → dátiles, tabaco, sándalo, nardos 
+Fondo → mirra, vainilla, sándalo, nardos 
+ART OF UNIVERSE I → 38.95€ 
+Salida → mandarina, bergamota, jengibre, menta 
+Corazón → pera, flor de azahar del naranjo 
+Fondo → almizcle, ámbar, cedro
+LA COLLECTION D’ANTIQUITÉS 1910 → 36€ 
+Salida → manzana, davana, rosa 
+Corazón → cedro, osmanto 
+Fondo → vainilla, haba tonka, pachulí 
+HAWAS FIRE→ 34€ 
+Salida → esclarea 
+Corazón → notas marinas, jazmín egipcio 
+Fondo → ámbar, notas minerales, ámbar gris 
+AL HARAMAIN AMBER OUD GOLD 999.9 DUBAI EDITION → 65.00€ 
+Salida → mandarina, bergamota, pera, limón 
+Corazón → caramelo, melón, pera, manzana verde, cardamomo, jazmín Fondo → ámbar, vainilla, pachulí, cedro
